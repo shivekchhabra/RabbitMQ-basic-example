@@ -21,6 +21,22 @@ To run the code, you can do:
 <pre><code>java -cp .:amqp-client-5.7.1.jar:slf4j-api-1.7.26.jar:slf4j-simple-1.7.26.jar Producer
 java -cp .:amqp-client-5.7.1.jar:slf4j-api-1.7.26.jar:slf4j-simple-1.7.26.jar Consumer </code></pre>
 
+
+## Outputs:
+
+#### Starting broker:
+
+![alt text](https://github.com/shivekchhabra/RabbitMQ-basic-example/blob/master/outputs/starting_broker.png)
+
+
+#### Producer:
+![alt text](https://github.com/shivekchhabra/RabbitMQ-basic-example/blob/master/outputs/producer.png)
+
+#### Consumer:
+![alt text](https://github.com/shivekchhabra/RabbitMQ-basic-example/blob/master/outputs/consumer.png)
+
+
+
 ## References:
 1. https://www.rabbitmq.com/tutorials/tutorial-one-java.html
 2. https://blog.reedsy.com/short-story/nc54kv/
